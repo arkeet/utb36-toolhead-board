@@ -4748,7 +4748,7 @@
 		)
 		(uuid "eb2e667e-8fc8-48d2-8c58-bf4c4aa36c3b")
 	)
-	(label "FAN0_PWR"
+	(label "PCFAN_PWR"
 		(at 60.96 106.68 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4759,7 +4759,7 @@
 		)
 		(uuid "1824aa26-6e6d-49fe-9658-ac5081dc5669")
 	)
-	(label "FAN1_PWR"
+	(label "HEFAN_PWR"
 		(at 60.96 154.94 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4770,7 +4770,7 @@
 		)
 		(uuid "a988a674-061b-4c89-8748-79c3558dbfa1")
 	)
-	(global_label "FAN1"
+	(global_label "HEFAN"
 		(shape input)
 		(at 35.56 165.1 180)
 		(fields_autoplaced yes)
@@ -4782,7 +4782,7 @@
 		)
 		(uuid "37e7e327-87da-4fde-81d7-560b0b74aa12")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 27.937 165.1 0)
+			(at 26.5876 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4902,7 +4902,7 @@
 			)
 		)
 	)
-	(global_label "FAN1_SENSE"
+	(global_label "HEFAN_SENSE"
 		(shape output)
 		(at 81.28 177.8 0)
 		(fields_autoplaced yes)
@@ -4914,7 +4914,7 @@
 		)
 		(uuid "7158fe8e-2245-4b44-8cd9-170f97c3a819")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 95.9181 177.8 0)
+			(at 97.2675 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4968,7 +4968,7 @@
 			)
 		)
 	)
-	(global_label "FAN0"
+	(global_label "PCFAN"
 		(shape input)
 		(at 35.56 116.84 180)
 		(fields_autoplaced yes)
@@ -4980,7 +4980,7 @@
 		)
 		(uuid "d6e00669-baeb-47c0-8f92-51e51eaa951e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 27.937 116.84 0)
+			(at 26.5271 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
