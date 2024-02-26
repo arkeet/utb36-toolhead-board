@@ -5077,7 +5077,7 @@
 		(fields_autoplaced yes)
 		(uuid "a2c641e5-0adf-48e1-a284-d36fd28e16d5")
 		(property "Reference" "C8"
-			(at 271.5641 39.6096 0)
+			(at 271.5641 39.4214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5085,8 +5085,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1u"
-			(at 271.5641 41.6576 0)
+		(property "Value" "4u7"
+			(at 271.5641 41.8457 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5094,7 +5094,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 269.24 40.64 0)
 			(effects
 				(font
@@ -5130,7 +5130,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C52923"
+		(property "LCSC" "C19666"
 			(at 269.24 40.64 0)
 			(effects
 				(font
