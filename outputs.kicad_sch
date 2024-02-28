@@ -1633,7 +1633,7 @@
 				)
 			)
 		)
-		(symbol "Jumper:Jumper_3_Open"
+		(symbol "Jumper:SolderJumper_3_Open"
 			(pin_names
 				(offset 0) hide)
 			(exclude_from_sim no)
@@ -1647,7 +1647,7 @@
 					)
 				)
 			)
-			(property "Value" "Jumper_3_Open"
+			(property "Value" "SolderJumper_3_Open"
 				(at 0 2.794 0)
 				(effects
 					(font
@@ -1673,7 +1673,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Jumper, 3-pole, both open"
+			(property "Description" "Solder Jumper, 3-pole, open"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1682,7 +1682,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "Jumper SPDT"
+			(property "ki_keywords" "Solder Jumper SPDT"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1691,7 +1691,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "Jumper* TestPoint*3Pads* TestPoint*Bridge*"
+			(property "ki_fp_filters" "SolderJumper*Open*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1700,46 +1700,46 @@
 					(hide yes)
 				)
 			)
-			(symbol "Jumper_3_Open_0_0"
-				(circle
-					(center -3.302 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 3.302 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Jumper_3_Open_0_1"
+			(symbol "SolderJumper_3_Open_0_1"
 				(arc
-					(start -0.254 1.016)
-					(mid -1.651 1.4992)
-					(end -3.048 1.016)
+					(start -1.016 1.016)
+					(mid -2.0276 0)
+					(end -1.016 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -1.016 1.016)
+					(mid -2.0276 0)
+					(end -1.016 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -0.508 1.016)
+					(end 0.508 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -2.032 0)
+					)
 					(stroke
 						(width 0)
 						(type default)
@@ -1750,7 +1750,43 @@
 				)
 				(polyline
 					(pts
-						(xy 0 -0.508) (xy 0 -1.27)
+						(xy -1.016 1.016) (xy -1.016 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 1.016) (xy 1.016 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 2.032 0)
 					)
 					(stroke
 						(width 0)
@@ -1761,9 +1797,9 @@
 					)
 				)
 				(arc
-					(start 3.048 1.016)
-					(mid 1.651 1.4992)
-					(end 0.254 1.016)
+					(start 1.016 -1.016)
+					(mid 2.0276 0)
+					(end 1.016 1.016)
 					(stroke
 						(width 0)
 						(type default)
@@ -1772,10 +1808,22 @@
 						(type none)
 					)
 				)
+				(arc
+					(start 1.016 -1.016)
+					(mid 2.0276 0)
+					(end 1.016 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 			)
-			(symbol "Jumper_3_Open_1_1"
+			(symbol "SolderJumper_3_Open_1_1"
 				(pin passive line
-					(at -6.35 0 0)
+					(at -5.08 0 0)
 					(length 2.54)
 					(name "A"
 						(effects
@@ -1811,7 +1859,7 @@
 					)
 				)
 				(pin passive line
-					(at 6.35 0 180)
+					(at 5.08 0 180)
 					(length 2.54)
 					(name "B"
 						(effects
@@ -2663,9 +2711,9 @@
 						)
 					)
 				)
-				(pin passive line
+				(pin free line
 					(at 2.54 -25.4 90)
-					(length 2.54)
+					(length 2.54) hide
 					(name "NC"
 						(effects
 							(font
@@ -3363,12 +3411,6 @@
 		(uuid "2905b97e-6dd6-4e58-a5a5-799bdbb34b5e")
 	)
 	(junction
-		(at 187.96 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "43575be4-b091-48df-9707-760a3179e135")
-	)
-	(junction
 		(at 73.66 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3475,16 +3517,6 @@
 	(no_connect
 		(at 172.72 66.04)
 		(uuid "fbc4e7b5-3d30-4ebd-89e4-f11ecc3b467a")
-	)
-	(wire
-		(pts
-			(xy 50.8 149.86) (xy 49.53 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04a503f5-6159-4986-ba48-13a8c568d41f")
 	)
 	(wire
 		(pts
@@ -3675,6 +3707,16 @@
 			(type default)
 		)
 		(uuid "3fb0ebec-bd08-4c48-a852-ad4be8c4c597")
+	)
+	(wire
+		(pts
+			(xy 187.96 88.9) (xy 187.96 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40f8662d-fc19-471b-af62-afef8c976862")
 	)
 	(wire
 		(pts
@@ -3888,7 +3930,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 101.6) (xy 35.56 101.6)
+			(xy 38.1 101.6) (xy 35.56 101.6)
 		)
 		(stroke
 			(width 0)
@@ -3928,7 +3970,17 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 149.86) (xy 35.56 149.86)
+			(xy 48.26 149.86) (xy 50.8 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76d9b19e-4dfa-4bbd-9cf5-4800734d880a")
+	)
+	(wire
+		(pts
+			(xy 38.1 149.86) (xy 35.56 149.86)
 		)
 		(stroke
 			(width 0)
@@ -3975,16 +4027,6 @@
 			(type default)
 		)
 		(uuid "86230b73-ddbc-4ac9-ab1d-ca3f794e697e")
-	)
-	(wire
-		(pts
-			(xy 190.5 91.44) (xy 187.96 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "884c5366-b2ca-45ae-982e-3dcbf7cf63b2")
 	)
 	(wire
 		(pts
@@ -4038,16 +4080,6 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 91.44) (xy 187.96 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "91bed911-8617-4da7-bf65-544e9fa7eeb6")
-	)
-	(wire
-		(pts
 			(xy 104.14 38.1) (xy 96.52 38.1)
 		)
 		(stroke
@@ -4065,16 +4097,6 @@
 			(type default)
 		)
 		(uuid "91e21824-b48a-4c6f-84d6-334f61be1876")
-	)
-	(wire
-		(pts
-			(xy 187.96 88.9) (xy 187.96 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9394e017-2458-458c-96b4-1f50d042c3b4")
 	)
 	(wire
 		(pts
@@ -4295,16 +4317,6 @@
 			(type default)
 		)
 		(uuid "b511d441-ba4d-4986-9ee2-459f2ec0e747")
-	)
-	(wire
-		(pts
-			(xy 190.5 88.9) (xy 190.5 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6b8474d-5882-481d-a131-27b767b5530a")
 	)
 	(wire
 		(pts
@@ -4598,7 +4610,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 101.6) (xy 49.53 101.6)
+			(xy 50.8 101.6) (xy 48.26 101.6)
 		)
 		(stroke
 			(width 0)
@@ -6370,7 +6382,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22K"
+		(property "Value" "100K"
 			(at 44.6786 171.204 0)
 			(effects
 				(font
@@ -6415,7 +6427,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25768"
+		(property "LCSC" "C25741"
 			(at 43.18 170.18 0)
 			(effects
 				(font
@@ -6789,7 +6801,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 187.96 93.98 0)
+		(at 187.96 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6798,7 +6810,7 @@
 		(fields_autoplaced yes)
 		(uuid "4e1c1e36-a0c8-48cf-9f17-c375ab6a68d6")
 		(property "Reference" "#PWR043"
-			(at 187.96 100.33 0)
+			(at 187.96 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6807,7 +6819,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 187.96 97.925 0)
+			(at 187.96 95.385 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6815,7 +6827,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 93.98 0)
+			(at 187.96 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6824,7 +6836,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 93.98 0)
+			(at 187.96 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6833,7 +6845,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 187.96 93.98 0)
+			(at 187.96 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7082,6 +7094,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 58.42 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C80500"
 			(at 58.42 45.72 0)
 			(effects
 				(font
@@ -7444,7 +7465,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22K"
+		(property "Value" "100K"
 			(at 44.6786 122.944 0)
 			(effects
 				(font
@@ -7489,7 +7510,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25768"
+		(property "LCSC" "C25741"
 			(at 43.18 121.92 0)
 			(effects
 				(font
@@ -8355,6 +8376,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C80500"
+			(at 228.6 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c228110d-9aa8-4235-9034-ae8d6fbcfd43")
 		)
@@ -9153,7 +9183,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_3_Open")
+		(lib_id "Jumper:SolderJumper_3_Open")
 		(at 43.18 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9169,7 +9199,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper_3_Open"
+		(property "Value" "SolderJumper_3_Open"
 			(at 43.18 98.6958 0)
 			(effects
 				(font
@@ -9196,7 +9226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Solder Jumper, 3-pole, open"
 			(at 43.18 101.6 0)
 			(effects
 				(font
@@ -9384,7 +9414,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22K"
+		(property "Value" "100K"
 			(at 80.2386 51.824 0)
 			(effects
 				(font
@@ -9429,7 +9459,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25768"
+		(property "LCSC" "C25741"
 			(at 78.74 50.8 0)
 			(effects
 				(font
@@ -9764,7 +9794,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_3_Open")
+		(lib_id "Jumper:SolderJumper_3_Open")
 		(at 43.18 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9780,7 +9810,7 @@
 				)
 			)
 		)
-		(property "Value" "Jumper_3_Open"
+		(property "Value" "SolderJumper_3_Open"
 			(at 43.18 146.9558 0)
 			(effects
 				(font
@@ -9807,7 +9837,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Solder Jumper, 3-pole, open"
 			(at 43.18 149.86 0)
 			(effects
 				(font
@@ -10075,7 +10105,7 @@
 		(fields_autoplaced yes)
 		(uuid "eda711ca-26dd-4bd8-a746-8b65809d0284")
 		(property "Reference" "U6"
-			(at 192.4559 87.892 0)
+			(at 190.1541 88.0801 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10084,7 +10114,7 @@
 			)
 		)
 		(property "Value" "TMC2209-LA"
-			(at 192.4559 89.94 0)
+			(at 190.1541 90.5044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10119,7 +10149,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TMC2209-LA"
+			(at 187.96 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C465949"
 			(at 187.96 63.5 0)
 			(effects
 				(font
@@ -10278,6 +10317,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 142.24 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C80500"
 			(at 142.24 129.54 0)
 			(effects
 				(font

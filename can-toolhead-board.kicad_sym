@@ -737,9 +737,9 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin free line
 				(at 2.54 -25.4 90)
-				(length 2.54)
+				(length 2.54) hide
 				(name "NC"
 					(effects
 						(font
