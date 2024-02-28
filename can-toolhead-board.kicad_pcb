@@ -32027,6 +32027,105 @@
 			(justify bottom mirror)
 		)
 	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
+		(uuid "247d4661-3d13-44e4-8cf1-347186be78db")
+		(pts
+			(xy 78.08 100) (xy 121.92 100)
+		)
+		(height -25)
+		(orientation 0)
+		(gr_text "43.84 mm"
+			(at 100 73.85 0)
+			(layer "Dwgs.User")
+			(uuid "247d4661-3d13-44e4-8cf1-347186be78db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4) suppress_zeroes)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
+		(uuid "dc9965ca-35a7-45da-ad41-e7c7503b1685")
+		(pts
+			(xy 121.92 100) (xy 121.92 112)
+		)
+		(height 8.08)
+		(orientation 1)
+		(gr_text "12 mm"
+			(at 128.85 106 90)
+			(layer "Dwgs.User")
+			(uuid "dc9965ca-35a7-45da-ad41-e7c7503b1685")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4) suppress_zeroes)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
+		(uuid "f24d81cb-65ff-4b50-be2e-a7ac60b2c7ef")
+		(pts
+			(xy 100 82) (xy 100 118)
+		)
+		(height -30)
+		(orientation 1)
+		(gr_text "36 mm"
+			(at 68.85 100 90)
+			(layer "Dwgs.User")
+			(uuid "f24d81cb-65ff-4b50-be2e-a7ac60b2c7ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4) suppress_zeroes)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
 	(segment
 		(start 81.3 95.3)
 		(end 81.700438 95.700438)

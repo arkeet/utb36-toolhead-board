@@ -31,3 +31,4 @@ fp-info-cache
 *.csv
 
 out/
+.cache/
