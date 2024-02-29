@@ -5141,6 +5141,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 236.22 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "B4B-XH-A"
+			(at 236.22 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "62e72a6a-5a12-4a58-afcd-fe74ae9b5c63")
 		)
@@ -5565,6 +5583,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 226.06 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "GRM155R71H104KE14J"
+			(at 226.06 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "703773ca-70ca-429f-843e-da1b83e5bf00")
 		)
@@ -5645,6 +5681,24 @@
 			)
 		)
 		(property "LCSC" "C431195"
+			(at 93.98 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 93.98 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "AON7524"
 			(at 93.98 45.72 0)
 			(effects
 				(font
@@ -5735,6 +5789,24 @@
 			)
 		)
 		(property "LCSC" "C131337"
+			(at 83.82 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 83.82 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "B2B-PH-K-S"
 			(at 83.82 106.68 0)
 			(effects
 				(font
@@ -6030,6 +6102,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 58.42 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "AON7804"
+			(at 58.42 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc358143-ba29-43c6-9e20-c3276635d9b2")
 		)
@@ -6120,6 +6210,24 @@
 			)
 		)
 		(property "LCSC" "C25077"
+			(at 48.26 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 48.26 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "RMCF0402JT10R0"
 			(at 48.26 116.84 0)
 			(effects
 				(font
@@ -6282,6 +6390,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 73.66 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "CL10A475KO8NNNC"
+			(at 73.66 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4b94f562-7710-4322-9d4a-e4b197c2fc46")
 		)
@@ -6436,6 +6562,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 43.18 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "RMCF0402JT100K"
+			(at 43.18 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb31ab86-972c-4797-8616-ad3d753b2f70")
 		)
@@ -6515,6 +6659,24 @@
 			)
 		)
 		(property "LCSC" "C131337"
+			(at 83.82 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 83.82 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "B2B-PH-K-S"
 			(at 83.82 116.84 0)
 			(effects
 				(font
@@ -6611,6 +6773,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 220.98 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "ERJ-6DSFR11V"
+			(at 220.98 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f064d133-27b5-4b1d-9bc6-b51b5980ded6")
 		)
@@ -6689,6 +6869,24 @@
 			)
 		)
 		(property "LCSC" "C25076"
+			(at 160.02 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 160.02 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "RMCF0402FT100R"
 			(at 160.02 129.54 0)
 			(effects
 				(font
@@ -6776,6 +6974,24 @@
 			)
 		)
 		(property "LCSC" "C2286"
+			(at 73.66 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 73.66 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "LTST-S270KRKT"
 			(at 73.66 58.42 0)
 			(effects
 				(font
@@ -6937,6 +7153,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 73.66 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "RMCF0402JT1K00"
+			(at 73.66 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "580bedb7-d58e-4e6b-992d-cf900cf09acb")
 		)
@@ -7025,6 +7259,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" "1655-DSS14UCT-ND"
+			(at 78.74 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "DSS14"
+			(at 78.74 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "068e644c-5865-4b77-be4e-affa644a7522")
 		)
@@ -7103,6 +7355,24 @@
 			)
 		)
 		(property "LCSC" "C80500"
+			(at 58.42 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 58.42 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SN74LVC2G17DCKR"
 			(at 58.42 45.72 0)
 			(effects
 				(font
@@ -7202,6 +7472,24 @@
 			)
 		)
 		(property "LCSC" "C131339"
+			(at 175.26 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 175.26 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "B3B-PH-K-S"
 			(at 175.26 129.54 0)
 			(effects
 				(font
@@ -7367,6 +7655,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 76.2 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "CL10A475KO8NNNC"
+			(at 76.2 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1aaa9ba7-dcf1-4bd4-aa71-59dcafe78558")
 		)
@@ -7429,6 +7735,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 165.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 165.1 38.1 0)
 			(effects
 				(font
@@ -7511,6 +7826,24 @@
 			)
 		)
 		(property "LCSC" "C25741"
+			(at 43.18 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 43.18 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "RMCF0402JT100K"
 			(at 43.18 121.92 0)
 			(effects
 				(font
@@ -7739,6 +8072,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 238.76 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "GRM155R71H104KE14J"
+			(at 238.76 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "94f9914f-d6ae-42f7-87d7-daa852bfaa1d")
 		)
@@ -7893,6 +8244,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 220.98 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "GRM155R71H104KE14J"
+			(at 220.98 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "89de2dfe-fe78-45e0-b432-84b8ec84fca9")
 		)
@@ -7979,6 +8348,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 195.58 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "CL10A475KO8NNNC"
+			(at 195.58 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0ad4a609-c0be-43e6-b21e-dcd0cb6f0313")
 		)
@@ -8057,6 +8444,24 @@
 			)
 		)
 		(property "LCSC" "C25077"
+			(at 48.26 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 48.26 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "RMCF0402JT10R0"
 			(at 48.26 165.1 0)
 			(effects
 				(font
@@ -8285,6 +8690,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 58.42 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "AON7804"
+			(at 58.42 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d23a611b-141a-43fb-921c-983dbc5dad6b")
 		)
@@ -8385,6 +8808,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 228.6 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SN74LVC2G17DCKR"
+			(at 228.6 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c228110d-9aa8-4235-9034-ae8d6fbcfd43")
 		)
@@ -8448,7 +8889,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/pdm_docs/sd/436450200_sd.pdf"
+		(property "Datasheet" "https://www.molex.com/pdm_docs/sd/436500200_sd.pdf"
 			(at 109.22 35.56 0)
 			(effects
 				(font
@@ -8476,6 +8917,24 @@
 			)
 		)
 		(property "LCSC" "C114089"
+			(at 109.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 109.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "43650-0200"
 			(at 109.22 35.56 0)
 			(effects
 				(font
@@ -8702,6 +9161,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 208.28 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "GRM155R71H104KE14J"
+			(at 208.28 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "db460e78-b595-4c96-9251-de36caf60a17")
 		)
@@ -8856,6 +9333,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 218.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "ERJ-6DSFR11V"
+			(at 218.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a3a02bac-f0d4-42bb-b13e-32e53866afc6")
 		)
@@ -8936,6 +9431,24 @@
 			)
 		)
 		(property "LCSC" "C131339"
+			(at 83.82 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 83.82 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "B3B-PH-K-S"
 			(at 83.82 157.48 0)
 			(effects
 				(font
@@ -9167,6 +9680,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 40.64 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "RMCF0402FT10K0"
+			(at 40.64 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8bd136a4-a748-48a8-ab81-84c2d21f3fdd")
 		)
@@ -9187,7 +9718,7 @@
 		(at 43.18 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "cca66851-98ef-4d26-9414-b6c6a242efbd")
@@ -9236,6 +9767,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 43.18 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 43.18 101.6 0)
 			(effects
 				(font
@@ -9468,6 +10008,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 78.74 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "RMCF0402JT100K"
+			(at 78.74 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "50fb18eb-7330-4820-ba3e-d699c39e10ce")
 		)
@@ -9548,6 +10106,24 @@
 			)
 		)
 		(property "LCSC" "C307331"
+			(at 208.28 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 208.28 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "GRM155R71H104KE14J"
 			(at 208.28 40.64 0)
 			(effects
 				(font
@@ -9778,6 +10354,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 124.46 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "RMCF0402FT10K0"
+			(at 124.46 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "acbc351e-89ef-47e5-8342-b2c86e3457ac")
 		)
@@ -9798,7 +10392,7 @@
 		(at 43.18 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "e404e30e-a571-4673-8d9f-db25a9146052")
@@ -9847,6 +10441,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 43.18 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 43.18 149.86 0)
 			(effects
 				(font
@@ -10013,6 +10616,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 236.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "GRM155R71H104KE14J"
+			(at 236.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8466021c-4e89-40cd-9ab7-b082ad8cb407")
 		)
@@ -10159,6 +10780,24 @@
 			)
 		)
 		(property "LCSC" "C465949"
+			(at 187.96 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 187.96 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "TMC2209-LA"
 			(at 187.96 63.5 0)
 			(effects
 				(font
@@ -10334,6 +10973,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 142.24 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "SN74LVC2G17DCKR"
+			(at 142.24 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "002cf94e-a87a-42d4-8a8d-fb26f938ce60")
 		)
@@ -10424,6 +11081,24 @@
 			)
 		)
 		(property "LCSC" "C25077"
+			(at 83.82 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 83.82 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "RMCF0402JT10R0"
 			(at 83.82 45.72 0)
 			(effects
 				(font

@@ -562,7 +562,7 @@
           "group_by": false,
           "label": "MPN",
           "name": "MPN",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -575,6 +575,18 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "manf#",
+          "name": "manf#",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "digikey#",
+          "name": "digikey#",
+          "show": true
         }
       ],
       "filter_string": "",

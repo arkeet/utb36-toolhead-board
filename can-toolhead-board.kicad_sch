@@ -5739,6 +5739,12 @@
 		(uuid "9170c3df-0b38-434b-8093-1f23e4f61c34")
 	)
 	(junction
+		(at 195.58 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9326438b-db39-4e2e-b0e9-821e683ef0bd")
+	)
+	(junction
 		(at 68.58 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5767,12 +5773,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a84002e4-a98f-486a-9786-248debc375ed")
-	)
-	(junction
-		(at 193.04 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "abdc468d-236c-4bdb-ba27-780e20e78d8f")
 	)
 	(junction
 		(at 132.08 53.34)
@@ -5913,16 +5913,6 @@
 			(type default)
 		)
 		(uuid "0e885845-c786-4b77-9ad4-5cababe8832e")
-	)
-	(wire
-		(pts
-			(xy 182.88 30.48) (xy 193.04 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0fab3a43-c83d-4af0-b81d-5e9065d28467")
 	)
 	(wire
 		(pts
@@ -6176,7 +6166,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 40.64) (xy 193.04 53.34)
+			(xy 195.58 40.64) (xy 195.58 53.34)
 		)
 		(stroke
 			(width 0)
@@ -6486,6 +6476,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 30.48) (xy 195.58 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51b35e0f-532f-41a3-adf4-034ebb992b97")
+	)
+	(wire
+		(pts
 			(xy 180.34 88.9) (xy 177.8 88.9)
 		)
 		(stroke
@@ -6526,7 +6526,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 53.34) (xy 193.04 53.34)
+			(xy 182.88 53.34) (xy 195.58 53.34)
 		)
 		(stroke
 			(width 0)
@@ -6746,7 +6746,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 30.48) (xy 193.04 30.48)
+			(xy 198.12 30.48) (xy 195.58 30.48)
 		)
 		(stroke
 			(width 0)
@@ -7406,7 +7406,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 30.48) (xy 193.04 35.56)
+			(xy 195.58 30.48) (xy 195.58 35.56)
 		)
 		(stroke
 			(width 0)
@@ -8852,7 +8852,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "DSS14"
+		(property "manf#" "DSS14"
+			(at 180.34 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "1655-DSS14UCT-ND"
 			(at 180.34 66.04 0)
 			(effects
 				(font
@@ -8931,7 +8940,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "RMCF0402JT100K"
 			(at 35.56 175.26 0)
 			(effects
 				(font
@@ -8941,6 +8950,15 @@
 			)
 		)
 		(property "LCSC" "C25741"
+			(at 35.56 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 35.56 175.26 0)
 			(effects
 				(font
@@ -9301,7 +9319,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9350,7 +9368,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" ""
+			(at 80.01 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 80.01 91.44 0)
 			(effects
 				(font
@@ -9562,7 +9589,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "GRM155R71H104KE14J"
 			(at 124.46 40.64 0)
 			(effects
 				(font
@@ -9572,6 +9599,15 @@
 			)
 		)
 		(property "LCSC" "C307331"
+			(at 124.46 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 124.46 40.64 0)
 			(effects
 				(font
@@ -9850,7 +9886,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "GRM21BR61H106KE43L"
 			(at 119.38 40.64 0)
 			(effects
 				(font
@@ -9860,6 +9896,15 @@
 			)
 		)
 		(property "LCSC" "C440198"
+			(at 119.38 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 119.38 40.64 0)
 			(effects
 				(font
@@ -9937,7 +9982,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "SM06B-SRSS-TB"
 			(at 124.46 173.99 0)
 			(effects
 				(font
@@ -9947,6 +9992,15 @@
 			)
 		)
 		(property "LCSC" "C160405"
+			(at 124.46 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 124.46 173.99 0)
 			(effects
 				(font
@@ -10254,7 +10308,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10295,6 +10349,15 @@
 			)
 		)
 		(property "Description" "3-pole Solder Jumper, pins 1+2 closed/bridged"
+			(at 76.2 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 76.2 46.99 0)
 			(effects
 				(font
@@ -10520,7 +10583,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "STM32G0B1KBU6"
+		(property "manf#" "STM32G0B1KBU6"
+			(at 170.18 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 170.18 119.38 0)
 			(effects
 				(font
@@ -10825,7 +10897,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "KMR211GLFS"
+		(property "manf#" "EVQ-P7A01P"
 			(at 213.36 139.7 0)
 			(effects
 				(font
@@ -10835,6 +10907,15 @@
 			)
 		)
 		(property "LCSC" "C221675"
+			(at 213.36 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 213.36 139.7 0)
 			(effects
 				(font
@@ -10911,7 +10992,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "GRM155R71H104KE14J"
 			(at 60.96 76.2 0)
 			(effects
 				(font
@@ -10921,6 +11002,15 @@
 			)
 		)
 		(property "LCSC" "C307331"
+			(at 60.96 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 60.96 76.2 0)
 			(effects
 				(font
@@ -10997,7 +11087,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SS34"
+		(property "manf#" "SS34"
 			(at 114.3 30.48 0)
 			(effects
 				(font
@@ -11007,6 +11097,15 @@
 			)
 		)
 		(property "LCSC" "C8678"
+			(at 114.3 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" "641-2115-1-ND"
 			(at 114.3 30.48 0)
 			(effects
 				(font
@@ -11148,7 +11247,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TYPE-C-31-M-12"
+		(property "manf#" "12402012E212A"
 			(at 43.18 147.32 0)
 			(effects
 				(font
@@ -11158,6 +11257,15 @@
 			)
 		)
 		(property "LCSC" "C165948"
+			(at 43.18 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 43.18 147.32 0)
 			(effects
 				(font
@@ -11346,7 +11454,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "M22-2010205"
 			(at 190.5 66.04 0)
 			(effects
 				(font
@@ -11356,6 +11464,15 @@
 			)
 		)
 		(property "LCSC" "C706997"
+			(at 190.5 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 190.5 66.04 0)
 			(effects
 				(font
@@ -11431,7 +11548,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "RMCF0402JT5K10"
 			(at 76.2 139.7 0)
 			(effects
 				(font
@@ -11441,6 +11558,15 @@
 			)
 		)
 		(property "LCSC" "C25905"
+			(at 76.2 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 76.2 139.7 0)
 			(effects
 				(font
@@ -11594,6 +11720,24 @@
 				(hide yes)
 			)
 		)
+		(property "digikey#" ""
+			(at 261.62 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "LTST-S270KGKT"
+			(at 261.62 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2c624497-e7e8-4e7f-b49c-b1b379053b6e")
 		)
@@ -11664,7 +11808,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "RMCF0402FT10K0"
 			(at 213.36 129.54 0)
 			(effects
 				(font
@@ -11674,6 +11818,15 @@
 			)
 		)
 		(property "LCSC" "C25744"
+			(at 213.36 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 213.36 129.54 0)
 			(effects
 				(font
@@ -11761,7 +11914,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "EEH-ZK1V101XP"
+		(property "manf#" "GYE1V101MCQ1GS"
+			(at 38.1 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 38.1 39.37 0)
 			(effects
 				(font
@@ -11907,7 +12069,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "TJA1051TK/3/1J"
 			(at 55.88 93.98 0)
 			(effects
 				(font
@@ -11917,6 +12079,15 @@
 			)
 		)
 		(property "LCSC" "C2875699"
+			(at 55.88 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 55.88 93.98 0)
 			(effects
 				(font
@@ -12080,7 +12251,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "GRM155R71H104KE14J"
 			(at 162.56 30.48 0)
 			(effects
 				(font
@@ -12090,6 +12261,15 @@
 			)
 		)
 		(property "LCSC" "C307331"
+			(at 162.56 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 162.56 30.48 0)
 			(effects
 				(font
@@ -12115,7 +12295,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 193.04 38.1 0)
+		(at 195.58 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12124,7 +12304,7 @@
 		(fields_autoplaced yes)
 		(uuid "84d826dd-061a-4d61-83e2-1ff860217a3c")
 		(property "Reference" "C7"
-			(at 195.3641 37.0823 0)
+			(at 197.9041 37.0823 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12133,7 +12313,7 @@
 			)
 		)
 		(property "Value" "22u/10V"
-			(at 195.3641 39.1303 0)
+			(at 197.9041 39.1303 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12142,7 +12322,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 193.04 38.1 0)
+			(at 195.58 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12151,7 +12331,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 38.1 0)
+			(at 195.58 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12160,7 +12340,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 193.04 38.1 0)
+			(at 195.58 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12168,8 +12348,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
-			(at 193.04 38.1 0)
+		(property "manf#" "CL10A226MP8NUNE"
+			(at 195.58 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12178,7 +12358,16 @@
 			)
 		)
 		(property "LCSC" "C86295"
-			(at 193.04 38.1 0)
+			(at 195.58 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
+			(at 195.58 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12321,7 +12510,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TPS62933DRLR"
+		(property "manf#" "TPS62933DRLR"
 			(at 149.86 38.1 0)
 			(effects
 				(font
@@ -12331,6 +12520,15 @@
 			)
 		)
 		(property "LCSC" "C3200405"
+			(at 149.86 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 149.86 38.1 0)
 			(effects
 				(font
@@ -12434,7 +12632,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "IHLP2020CZER3R3M11"
+		(property "manf#" "IHLP2020CZER3R3M11"
+			(at 172.72 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 172.72 30.48 0)
 			(effects
 				(font
@@ -12513,7 +12720,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "CL05C470JB5NNNC"
 			(at 177.8 38.1 0)
 			(effects
 				(font
@@ -12523,6 +12730,15 @@
 			)
 		)
 		(property "LCSC" "C1567"
+			(at 177.8 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 177.8 38.1 0)
 			(effects
 				(font
@@ -12601,7 +12817,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "GRM155R71H104KE14J"
 			(at 116.84 104.14 0)
 			(effects
 				(font
@@ -12611,6 +12827,15 @@
 			)
 		)
 		(property "LCSC" "C307331"
+			(at 116.84 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 116.84 104.14 0)
 			(effects
 				(font
@@ -12755,7 +12980,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "CL10A475KO8NNNC"
 			(at 248.92 40.64 0)
 			(effects
 				(font
@@ -12765,6 +12990,15 @@
 			)
 		)
 		(property "LCSC" "C19666"
+			(at 248.92 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 248.92 40.64 0)
 			(effects
 				(font
@@ -12856,7 +13090,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "USBLC6-2P6"
+		(property "manf#" "USBLC6-2P6"
+			(at 76.2 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 76.2 170.18 0)
 			(effects
 				(font
@@ -12945,7 +13188,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "GRM155R71H104KE14J"
 			(at 137.16 40.64 0)
 			(effects
 				(font
@@ -12955,6 +13198,15 @@
 			)
 		)
 		(property "LCSC" "C1532"
+			(at 137.16 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 137.16 40.64 0)
 			(effects
 				(font
@@ -13032,7 +13284,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "KMR211GLFS"
+		(property "manf#" "EVQ-P7A01P"
 			(at 111.76 104.14 0)
 			(effects
 				(font
@@ -13042,6 +13294,15 @@
 			)
 		)
 		(property "LCSC" "C221675"
+			(at 111.76 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 111.76 104.14 0)
 			(effects
 				(font
@@ -13076,7 +13337,7 @@
 		(fields_autoplaced yes)
 		(uuid "b63af893-38cf-498b-8b4d-761e05b531ff")
 		(property "Reference" "R3"
-			(at 184.3786 47.236 0)
+			(at 184.3786 47.0478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13084,8 +13345,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
-			(at 184.3786 49.284 0)
+		(property "Value" "10K 1%"
+			(at 184.3786 49.4721 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13120,7 +13381,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "RMCF0402FT10K0"
 			(at 182.88 48.26 0)
 			(effects
 				(font
@@ -13130,6 +13391,15 @@
 			)
 		)
 		(property "LCSC" "C25744"
+			(at 182.88 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 182.88 48.26 0)
 			(effects
 				(font
@@ -13207,7 +13477,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "RMCF0402FT10K0"
 			(at 261.62 45.72 0)
 			(effects
 				(font
@@ -13217,6 +13487,15 @@
 			)
 		)
 		(property "LCSC" "C25744"
+			(at 261.62 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 261.62 45.72 0)
 			(effects
 				(font
@@ -13294,7 +13573,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "RMCF0402JT120R"
 			(at 80.01 96.52 0)
 			(effects
 				(font
@@ -13304,6 +13583,15 @@
 			)
 		)
 		(property "LCSC" "C25079"
+			(at 80.01 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 80.01 96.52 0)
 			(effects
 				(font
@@ -13332,7 +13620,7 @@
 		(at 254 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13382,7 +13670,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" ""
+			(at 254 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 254 152.4 0)
 			(effects
 				(font
@@ -13453,7 +13750,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "RMCF0402JT5K10"
 			(at 76.2 137.16 0)
 			(effects
 				(font
@@ -13463,6 +13760,15 @@
 			)
 		)
 		(property "LCSC" "C25905"
+			(at 76.2 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 76.2 137.16 0)
 			(effects
 				(font
@@ -13694,7 +14000,7 @@
 		(fields_autoplaced yes)
 		(uuid "d1a66242-d5db-47fa-a317-266b6616fe05")
 		(property "Reference" "R2"
-			(at 184.3786 37.076 0)
+			(at 184.3786 36.8878 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13702,8 +14008,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "52K3"
-			(at 184.3786 39.124 0)
+		(property "Value" "52K3 1%"
+			(at 184.3786 39.3121 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13738,7 +14044,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "RMCF0402FT52K3"
 			(at 182.88 38.1 0)
 			(effects
 				(font
@@ -13748,6 +14054,15 @@
 			)
 		)
 		(property "LCSC" "C26982"
+			(at 182.88 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 182.88 38.1 0)
 			(effects
 				(font
@@ -13824,7 +14139,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "43045-0400"
+		(property "manf#" "43045-0400"
 			(at 50.8 38.1 0)
 			(effects
 				(font
@@ -13834,6 +14149,15 @@
 			)
 		)
 		(property "LCSC" "C122413"
+			(at 50.8 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 50.8 38.1 0)
 			(effects
 				(font
@@ -13916,7 +14240,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TLV70033DCKR"
+		(property "manf#" "TLV70033DCKR"
 			(at 236.22 35.56 0)
 			(effects
 				(font
@@ -13926,6 +14250,15 @@
 			)
 		)
 		(property "LCSC" "C47945"
+			(at 236.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 236.22 35.56 0)
 			(effects
 				(font
@@ -14213,7 +14546,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "CL05B103KB5NNNC"
 			(at 30.48 175.26 0)
 			(effects
 				(font
@@ -14223,6 +14556,15 @@
 			)
 		)
 		(property "LCSC" "C15195"
+			(at 30.48 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 30.48 175.26 0)
 			(effects
 				(font
@@ -14299,7 +14641,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" "GRM155R71H104KE14J"
 			(at 175.26 88.9 0)
 			(effects
 				(font
@@ -14309,6 +14651,15 @@
 			)
 		)
 		(property "LCSC" "C307331"
+			(at 175.26 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 175.26 88.9 0)
 			(effects
 				(font
@@ -14471,7 +14822,7 @@
 		(at 254 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14521,7 +14872,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "manf#" ""
+			(at 254 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 254 157.48 0)
 			(effects
 				(font
@@ -14544,7 +14904,7 @@
 		(at 76.2 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14585,6 +14945,15 @@
 			)
 		)
 		(property "Description" "3-pole Solder Jumper, pins 1+2 closed/bridged"
+			(at 76.2 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "digikey#" ""
 			(at 76.2 31.75 0)
 			(effects
 				(font
