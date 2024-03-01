@@ -6246,7 +6246,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 146.05) (xy 63.5 147.32)
+			(xy 63.5 144.78) (xy 63.5 147.32)
 		)
 		(stroke
 			(width 0)
@@ -6786,7 +6786,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 146.05) (xy 63.5 146.05)
+			(xy 58.42 144.78) (xy 63.5 144.78)
 		)
 		(stroke
 			(width 0)
@@ -7684,16 +7684,6 @@
 		)
 		(uuid "fcd44d77-eb8b-47ab-be7b-138c0a310991")
 	)
-	(wire
-		(pts
-			(xy 58.42 146.05) (xy 58.42 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ffd04007-4200-469c-9fb9-97ffa04da786")
-	)
 	(rectangle
 		(start 22.86 22.86)
 		(end 96.52 60.96)
@@ -7835,7 +7825,7 @@
 	)
 	(text "Matching USB connectors:\nAmphenol 12402012E212A\nGCT USB4105-GF-A\nHRO TYPE-C-31-M-12\nG-Switch GT-USB-7010ASV\nXKB U263-16XN-4XS1735\nand more..."
 		(exclude_from_sim no)
-		(at 22.86 213.36 0)
+		(at 22.86 193.04 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8870,6 +8860,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" "241-SS1040FLR100001"
+			(at 180.34 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7f54d32c-662b-424e-8dfa-9e75a1a873bc")
 		)
@@ -8940,7 +8939,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402JT100K"
+		(property "manf#" "RC0402FR-07100KL"
 			(at 35.56 175.26 0)
 			(effects
 				(font
@@ -8959,6 +8958,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 35.56 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 35.56 175.26 0)
 			(effects
 				(font
@@ -9321,7 +9329,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1ef3701b-1df3-404d-a675-0691654ac78b")
 		(property "Reference" "JP1"
@@ -9378,6 +9386,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 80.01 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 80.01 91.44 0)
 			(effects
 				(font
@@ -9608,6 +9625,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 124.46 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 124.46 40.64 0)
 			(effects
 				(font
@@ -9850,7 +9876,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10u/50V"
+		(property "Value" "10u"
 			(at 117.056 41.6703 0)
 			(effects
 				(font
@@ -9886,7 +9912,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "GRM31CD71H106KE11 "
+		(property "manf#" "GRM31CD71H106KE11L"
 			(at 119.38 40.64 0)
 			(effects
 				(font
@@ -9905,6 +9931,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 119.38 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 119.38 40.64 0)
 			(effects
 				(font
@@ -10001,6 +10036,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 124.46 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 124.46 173.99 0)
 			(effects
 				(font
@@ -10310,7 +10354,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3a845cfc-d0cd-4e83-a9c4-e341ae85cf79")
 		(property "Reference" "JP6"
@@ -10358,6 +10402,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 76.2 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 76.2 46.99 0)
 			(effects
 				(font
@@ -10593,6 +10646,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 170.18 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 170.18 119.38 0)
 			(effects
 				(font
@@ -10924,6 +10986,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 213.36 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e47b02a7-ca9c-4da6-a1c2-6c85900d03df")
 		)
@@ -11019,6 +11090,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 60.96 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "07375932-8a95-4889-b728-663d2c0ee870")
 		)
@@ -11105,7 +11185,16 @@
 				(hide yes)
 			)
 		)
-		(property "digikey#" "641-2115-1-ND"
+		(property "digikey#" "4878-SK34SMA-3GCT-ND"
+			(at 114.3 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" "637-SK34SMA-3G"
 			(at 114.3 30.48 0)
 			(effects
 				(font
@@ -11266,6 +11355,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 43.18 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 43.18 147.32 0)
 			(effects
 				(font
@@ -11454,7 +11552,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "M22-2010205"
+		(property "manf#" "NRPN021PAEN-RC;NPN02SXLN-RC"
 			(at 190.5 66.04 0)
 			(effects
 				(font
@@ -11473,6 +11571,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 190.5 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 190.5 66.04 0)
 			(effects
 				(font
@@ -11548,7 +11655,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402JT5K10"
+		(property "manf#" "RC0402FR-075K1L"
 			(at 76.2 139.7 0)
 			(effects
 				(font
@@ -11567,6 +11674,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 76.2 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 76.2 139.7 0)
 			(effects
 				(font
@@ -11738,6 +11854,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 261.62 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2c624497-e7e8-4e7f-b49c-b1b379053b6e")
 		)
@@ -11808,7 +11933,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402FT10K0"
+		(property "manf#" "RC0402FR-0710KL"
 			(at 213.36 129.54 0)
 			(effects
 				(font
@@ -11827,6 +11952,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 213.36 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 213.36 129.54 0)
 			(effects
 				(font
@@ -11869,7 +12003,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100u/35V"
+		(property "Value" "100u"
 			(at 35.941 39.8479 0)
 			(effects
 				(font
@@ -11924,6 +12058,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 38.1 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 38.1 39.37 0)
 			(effects
 				(font
@@ -12088,6 +12231,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 55.88 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 55.88 93.98 0)
 			(effects
 				(font
@@ -12278,6 +12430,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 162.56 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8e6cf54e-72eb-478f-91ad-a7525b0dbbbe")
 		)
@@ -12312,7 +12473,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22u/10V"
+		(property "Value" "22u"
 			(at 197.9041 39.1303 0)
 			(effects
 				(font
@@ -12321,7 +12482,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 195.58 38.1 0)
 			(effects
 				(font
@@ -12348,7 +12509,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "CL10A226MP8NUNE"
+		(property "manf#" "GRM21BC81C226ME44L"
 			(at 195.58 38.1 0)
 			(effects
 				(font
@@ -12357,7 +12518,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C86295"
+		(property "LCSC" "C258782"
 			(at 195.58 38.1 0)
 			(effects
 				(font
@@ -12367,6 +12528,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 195.58 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 195.58 38.1 0)
 			(effects
 				(font
@@ -12537,6 +12707,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 149.86 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e03b3886-d198-4625-8a4f-402042ff1a50")
 		)
@@ -12650,6 +12829,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 172.72 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "59660a61-3841-4973-b8ec-add055a58b7d")
 		)
@@ -12747,6 +12935,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 177.8 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4a1bafe2-faea-4441-b328-e319fdde2eb8")
 		)
@@ -12836,6 +13033,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 116.84 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 116.84 104.14 0)
 			(effects
 				(font
@@ -13007,6 +13213,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 248.92 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e318c038-aa97-4d53-8e8b-51c07fdd51a4")
 		)
@@ -13100,6 +13315,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 76.2 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 76.2 170.18 0)
 			(effects
 				(font
@@ -13215,6 +13439,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 137.16 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0c62ff24-5b32-4de9-a04c-634a55ccb607")
 		)
@@ -13311,6 +13544,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 111.76 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0d264672-0418-41c5-a6e9-7038de8114ed")
 		)
@@ -13381,7 +13623,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402FT10K0"
+		(property "manf#" "RC0402FR-0710KL"
 			(at 182.88 48.26 0)
 			(effects
 				(font
@@ -13400,6 +13642,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 182.88 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 182.88 48.26 0)
 			(effects
 				(font
@@ -13477,7 +13728,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402FT10K0"
+		(property "manf#" "RC0402FR-0710KL"
 			(at 261.62 45.72 0)
 			(effects
 				(font
@@ -13496,6 +13747,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 261.62 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 261.62 45.72 0)
 			(effects
 				(font
@@ -13573,7 +13833,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402JT120R"
+		(property "manf#" "RC0402FR-07120RL"
 			(at 80.01 96.52 0)
 			(effects
 				(font
@@ -13592,6 +13852,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 80.01 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 80.01 96.52 0)
 			(effects
 				(font
@@ -13622,7 +13891,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b70fe4fd-62c0-4849-aef2-9cb6706e3b49")
 		(property "Reference" "H1"
@@ -13680,6 +13949,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 254 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 254 152.4 0)
 			(effects
 				(font
@@ -13750,7 +14028,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402JT5K10"
+		(property "manf#" "RC0402FR-075K1L"
 			(at 76.2 137.16 0)
 			(effects
 				(font
@@ -13769,6 +14047,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 76.2 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 76.2 137.16 0)
 			(effects
 				(font
@@ -14044,7 +14331,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402FT52K3"
+		(property "manf#" "RC0402FR-0752K3L"
 			(at 182.88 38.1 0)
 			(effects
 				(font
@@ -14062,7 +14349,16 @@
 				(hide yes)
 			)
 		)
-		(property "digikey#" ""
+		(property "digikey#" "YAG3179CT-ND"
+			(at 182.88 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 182.88 38.1 0)
 			(effects
 				(font
@@ -14166,6 +14462,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 50.8 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b3ce5ae9-71aa-4d3a-8579-91d9353f7074")
 		)
@@ -14259,6 +14564,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 236.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 236.22 35.56 0)
 			(effects
 				(font
@@ -14573,6 +14887,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 30.48 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "680f5db3-ef10-4c40-865e-3e1627bf9df1")
 		)
@@ -14660,6 +14983,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 175.26 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 175.26 88.9 0)
 			(effects
 				(font
@@ -14824,7 +15156,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f040a676-bf25-49f4-8e74-e3939ddabdc1")
 		(property "Reference" "H2"
@@ -14890,6 +15222,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 254 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "can-toolhead-board"
 				(path "/8a3dd23e-f907-4c9d-8cff-742c9e4c6758"
@@ -14906,7 +15247,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fdbfc60e-7768-4b0b-80b6-f373400b7838")
 		(property "Reference" "JP5"
@@ -14954,6 +15295,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 76.2 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 76.2 31.75 0)
 			(effects
 				(font

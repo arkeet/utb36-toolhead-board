@@ -5186,6 +5186,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 238.76 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "62e72a6a-5a12-4a58-afcd-fe74ae9b5c63")
 		)
@@ -5619,6 +5628,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 226.06 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "703773ca-70ca-429f-843e-da1b83e5bf00")
 		)
@@ -5708,6 +5726,15 @@
 			)
 		)
 		(property "manf#" "AON7524"
+			(at 93.98 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 93.98 45.72 0)
 			(effects
 				(font
@@ -5807,6 +5834,15 @@
 			)
 		)
 		(property "manf#" "B2B-PH-K-S"
+			(at 83.82 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 83.82 106.68 0)
 			(effects
 				(font
@@ -6111,6 +6147,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 58.42 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc358143-ba29-43c6-9e20-c3276635d9b2")
 		)
@@ -6209,7 +6254,16 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402JT10R0"
+		(property "manf#" "RC0402FR-0710RL"
+			(at 48.26 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 48.26 116.84 0)
 			(effects
 				(font
@@ -6381,6 +6435,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 73.66 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4b94f562-7710-4322-9d4a-e4b197c2fc46")
 		)
@@ -6535,7 +6598,16 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402JT100K"
+		(property "manf#" "RC0402FR-07100KL"
+			(at 43.18 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 43.18 170.18 0)
 			(effects
 				(font
@@ -6632,6 +6704,15 @@
 			)
 		)
 		(property "manf#" "B2B-PH-K-S"
+			(at 83.82 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 83.82 116.84 0)
 			(effects
 				(font
@@ -6737,6 +6818,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 226.06 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f064d133-27b5-4b1d-9bc6-b51b5980ded6")
 		)
@@ -6823,7 +6913,16 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402FT100R"
+		(property "manf#" "RC0402FR-07100RL"
+			(at 160.02 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 160.02 129.54 0)
 			(effects
 				(font
@@ -6920,6 +7019,15 @@
 			)
 		)
 		(property "manf#" "LTST-C190KRKT"
+			(at 73.66 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 73.66 58.42 0)
 			(effects
 				(font
@@ -7081,7 +7189,16 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402JT1K00"
+		(property "manf#" "RC0402FR-071KL"
+			(at 73.66 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 73.66 50.8 0)
 			(effects
 				(font
@@ -7187,6 +7304,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" "241-SS1040FLR100001"
+			(at 78.74 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "068e644c-5865-4b77-be4e-affa644a7522")
 		)
@@ -7274,6 +7400,15 @@
 			)
 		)
 		(property "manf#" "SN74LVC2G17DCKR"
+			(at 58.42 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 58.42 45.72 0)
 			(effects
 				(font
@@ -7382,6 +7517,15 @@
 			)
 		)
 		(property "manf#" "B3B-PH-K-S"
+			(at 175.26 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 175.26 129.54 0)
 			(effects
 				(font
@@ -7556,6 +7700,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 76.2 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1aaa9ba7-dcf1-4bd4-aa71-59dcafe78558")
 		)
@@ -7627,6 +7780,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 165.1 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 165.1 38.1 0)
 			(effects
 				(font
@@ -7717,7 +7879,16 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402JT100K"
+		(property "manf#" "RC0402FR-07100KL"
+			(at 43.18 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 43.18 121.92 0)
 			(effects
 				(font
@@ -7955,6 +8126,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 238.76 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "94f9914f-d6ae-42f7-87d7-daa852bfaa1d")
 		)
@@ -8118,6 +8298,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 220.98 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "89de2dfe-fe78-45e0-b432-84b8ec84fca9")
 		)
@@ -8213,6 +8402,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 195.58 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0ad4a609-c0be-43e6-b21e-dcd0cb6f0313")
 		)
@@ -8299,7 +8497,16 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402JT10R0"
+		(property "manf#" "RC0402FR-0710RL"
+			(at 48.26 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 48.26 165.1 0)
 			(effects
 				(font
@@ -8537,6 +8744,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 58.42 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d23a611b-141a-43fb-921c-983dbc5dad6b")
 		)
@@ -8646,6 +8862,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 228.6 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c228110d-9aa8-4235-9034-ae8d6fbcfd43")
 		)
@@ -8746,6 +8971,15 @@
 			)
 		)
 		(property "manf#" "43650-0200"
+			(at 109.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 109.22 35.56 0)
 			(effects
 				(font
@@ -8907,6 +9141,15 @@
 			)
 		)
 		(property "manf#" "GRM155R71H104KE14J"
+			(at 207.01 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 207.01 78.74 0)
 			(effects
 				(font
@@ -9078,6 +9321,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 223.52 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a3a02bac-f0d4-42bb-b13e-32e53866afc6")
 		)
@@ -9167,6 +9419,15 @@
 			)
 		)
 		(property "manf#" "B3B-PH-K-S"
+			(at 83.82 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 83.82 157.48 0)
 			(effects
 				(font
@@ -9398,7 +9659,16 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402FT10K0"
+		(property "manf#" "RC0402FR-0710KL"
+			(at 40.64 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 40.64 50.8 0)
 			(effects
 				(font
@@ -9429,7 +9699,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "cca66851-98ef-4d26-9414-b6c6a242efbd")
 		(property "Reference" "JP3"
 			(at 43.18 98.6958 0)
@@ -9476,6 +9746,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 43.18 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 43.18 101.6 0)
 			(effects
 				(font
@@ -9708,7 +9987,16 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402JT100K"
+		(property "manf#" "RC0402FR-07100KL"
+			(at 78.74 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 78.74 50.8 0)
 			(effects
 				(font
@@ -9806,6 +10094,15 @@
 			)
 		)
 		(property "manf#" "GRM155R71H104KE14J"
+			(at 208.28 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 208.28 40.64 0)
 			(effects
 				(font
@@ -10036,7 +10333,16 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402FT10K0"
+		(property "manf#" "RC0402FR-0710KL"
+			(at 124.46 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 124.46 134.62 0)
 			(effects
 				(font
@@ -10067,7 +10373,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e404e30e-a571-4673-8d9f-db25a9146052")
 		(property "Reference" "JP4"
 			(at 43.18 146.9558 0)
@@ -10114,6 +10420,15 @@
 			)
 		)
 		(property "digikey#" ""
+			(at 43.18 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 43.18 149.86 0)
 			(effects
 				(font
@@ -10289,6 +10604,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 236.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8466021c-4e89-40cd-9ab7-b082ad8cb407")
 		)
@@ -10444,6 +10768,15 @@
 			)
 		)
 		(property "manf#" "TMC2209-LA"
+			(at 187.96 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 187.96 63.5 0)
 			(effects
 				(font
@@ -10628,6 +10961,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser#" ""
+			(at 142.24 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "002cf94e-a87a-42d4-8a8d-fb26f938ce60")
 		)
@@ -10726,7 +11068,16 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "RMCF0402JT10R0"
+		(property "manf#" "RC0402FR-0710RL"
+			(at 83.82 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser#" ""
 			(at 83.82 45.72 0)
 			(effects
 				(font
