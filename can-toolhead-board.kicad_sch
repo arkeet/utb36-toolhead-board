@@ -9850,7 +9850,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10u/35V"
+		(property "Value" "10u/50V"
 			(at 117.056 41.6703 0)
 			(effects
 				(font
@@ -9859,7 +9859,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 119.38 40.64 0)
 			(effects
 				(font
@@ -9886,7 +9886,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "GRM21BR61H106KE43L"
+		(property "manf#" "GRM31CD71H106KE11 "
 			(at 119.38 40.64 0)
 			(effects
 				(font
@@ -9895,7 +9895,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C440198"
+		(property "LCSC" "C2987934"
 			(at 119.38 40.64 0)
 			(effects
 				(font
@@ -10906,7 +10906,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C221675"
+		(property "LCSC" "C79167"
 			(at 213.36 139.7 0)
 			(effects
 				(font
@@ -11729,7 +11729,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "LTST-S270KGKT"
+		(property "manf#" "LTST-C190KGKT"
 			(at 261.62 38.1 0)
 			(effects
 				(font
@@ -11905,7 +11905,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C454360"
+		(property "LCSC" "C705528"
 			(at 38.1 39.37 0)
 			(effects
 				(font
@@ -11914,7 +11914,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "GYE1V101MCQ1GS"
+		(property "manf#" "EEE-TQV101XAP"
 			(at 38.1 39.37 0)
 			(effects
 				(font
@@ -13293,7 +13293,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C221675"
+		(property "LCSC" "C79167"
 			(at 111.76 104.14 0)
 			(effects
 				(font
@@ -13345,7 +13345,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K 1%"
+		(property "Value" "10K/1%"
 			(at 184.3786 49.4721 0)
 			(effects
 				(font
@@ -14008,7 +14008,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "52K3 1%"
+		(property "Value" "52K3/1%"
 			(at 184.3786 39.3121 0)
 			(effects
 				(font
