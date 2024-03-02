@@ -8869,6 +8869,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 180.34 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7f54d32c-662b-424e-8dfa-9e75a1a873bc")
 		)
@@ -8967,6 +8976,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 35.56 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 35.56 175.26 0)
 			(effects
 				(font
@@ -9329,7 +9347,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ef3701b-1df3-404d-a675-0691654ac78b")
 		(property "Reference" "JP1"
@@ -9395,6 +9413,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 80.01 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 80.01 91.44 0)
 			(effects
 				(font
@@ -9634,6 +9661,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 124.46 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "50V"
 			(at 124.46 40.64 0)
 			(effects
 				(font
@@ -9948,6 +9984,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" "35V X7T"
+			(at 119.38 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "36c3d325-53be-4561-9cb9-fe4df10f19e9")
 		)
@@ -10045,6 +10090,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 124.46 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 124.46 173.99 0)
 			(effects
 				(font
@@ -10354,7 +10408,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a845cfc-d0cd-4e83-a9c4-e341ae85cf79")
 		(property "Reference" "JP6"
@@ -10411,6 +10465,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 76.2 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 76.2 46.99 0)
 			(effects
 				(font
@@ -10655,6 +10718,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 170.18 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "Use STM32G0B1KxU7 for 105C temperature rating"
 			(at 170.18 119.38 0)
 			(effects
 				(font
@@ -10995,6 +11067,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 213.36 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e47b02a7-ca9c-4da6-a1c2-6c85900d03df")
 		)
@@ -11099,6 +11180,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" "50V"
+			(at 60.96 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "07375932-8a95-4889-b728-663d2c0ee870")
 		)
@@ -11195,6 +11285,15 @@
 			)
 		)
 		(property "mouser#" "637-SK34SMA-3G"
+			(at 114.3 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 114.3 30.48 0)
 			(effects
 				(font
@@ -11364,6 +11463,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 43.18 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 43.18 147.32 0)
 			(effects
 				(font
@@ -11588,6 +11696,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 190.5 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b747e1b2-2c9f-472b-ba7e-6f6507b985b3")
 		)
@@ -11683,6 +11800,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 76.2 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 76.2 139.7 0)
 			(effects
 				(font
@@ -11863,6 +11989,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 261.62 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2c624497-e7e8-4e7f-b49c-b1b379053b6e")
 		)
@@ -11969,6 +12104,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 213.36 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8c6a55c1-bf5d-4eb3-b127-ed48e6f7ba28")
 		)
@@ -12067,6 +12211,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 38.1 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "35V electrolytic"
 			(at 38.1 39.37 0)
 			(effects
 				(font
@@ -12240,6 +12393,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 55.88 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 55.88 93.98 0)
 			(effects
 				(font
@@ -12439,6 +12601,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" "50V"
+			(at 162.56 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8e6cf54e-72eb-478f-91ad-a7525b0dbbbe")
 		)
@@ -12537,6 +12708,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 195.58 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "10V X6S"
 			(at 195.58 38.1 0)
 			(effects
 				(font
@@ -12716,6 +12896,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 149.86 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e03b3886-d198-4625-8a4f-402042ff1a50")
 		)
@@ -12838,6 +13027,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 172.72 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "59660a61-3841-4973-b8ec-add055a58b7d")
 		)
@@ -12944,6 +13142,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 177.8 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4a1bafe2-faea-4441-b328-e319fdde2eb8")
 		)
@@ -13042,6 +13249,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 116.84 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "50V"
 			(at 116.84 104.14 0)
 			(effects
 				(font
@@ -13222,6 +13438,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 248.92 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e318c038-aa97-4d53-8e8b-51c07fdd51a4")
 		)
@@ -13324,6 +13549,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 76.2 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 76.2 170.18 0)
 			(effects
 				(font
@@ -13448,6 +13682,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 137.16 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0c62ff24-5b32-4de9-a04c-634a55ccb607")
 		)
@@ -13545,6 +13788,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 111.76 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 111.76 104.14 0)
 			(effects
 				(font
@@ -13659,6 +13911,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 182.88 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb41bcb0-4ba1-4559-8d2a-791b21233232")
 		)
@@ -13756,6 +14017,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 261.62 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 261.62 45.72 0)
 			(effects
 				(font
@@ -13869,6 +14139,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 80.01 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0fe4febe-2373-4de8-bd49-c73fd7bc9cbe")
 		)
@@ -13891,7 +14170,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b70fe4fd-62c0-4849-aef2-9cb6706e3b49")
 		(property "Reference" "H1"
@@ -13958,6 +14237,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 254 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 254 152.4 0)
 			(effects
 				(font
@@ -14056,6 +14344,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 76.2 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 76.2 137.16 0)
 			(effects
 				(font
@@ -14367,6 +14664,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 182.88 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "23b3a5d0-55a9-4120-8bff-d527350ae49b")
 		)
@@ -14463,6 +14769,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 50.8 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 50.8 38.1 0)
 			(effects
 				(font
@@ -14573,6 +14888,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 236.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 236.22 35.56 0)
 			(effects
 				(font
@@ -14896,6 +15220,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 30.48 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "680f5db3-ef10-4c40-865e-3e1627bf9df1")
 		)
@@ -14992,6 +15325,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 175.26 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "50V"
 			(at 175.26 88.9 0)
 			(effects
 				(font
@@ -15156,7 +15498,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f040a676-bf25-49f4-8e74-e3939ddabdc1")
 		(property "Reference" "H2"
@@ -15231,6 +15573,15 @@
 				(hide yes)
 			)
 		)
+		(property "Notes" ""
+			(at 254 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "can-toolhead-board"
 				(path "/8a3dd23e-f907-4c9d-8cff-742c9e4c6758"
@@ -15247,7 +15598,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fdbfc60e-7768-4b0b-80b6-f373400b7838")
 		(property "Reference" "JP5"
@@ -15304,6 +15655,15 @@
 			)
 		)
 		(property "mouser#" ""
+			(at 76.2 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
 			(at 76.2 31.75 0)
 			(effects
 				(font

@@ -494,7 +494,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "out/can-toolhead-board.step",
       "svg": "",
       "vrml": ""
     },
@@ -587,6 +587,12 @@
           "label": "mouser#",
           "name": "mouser#",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Notes",
+          "name": "Notes",
+          "show": true
         }
       ],
       "filter_string": "",
