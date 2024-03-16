@@ -352,7 +352,7 @@
 				)
 			)
 		)
-		(property "Notes" ""
+		(property "Notes" "Alternates: Sumida 0530CDMCCDS-3R3MC"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -568,7 +568,7 @@
 				)
 			)
 		)
-		(property "Value" "0R11 1/3W"
+		(property "Value" "0R11"
 			(at 0 1.65 -45)
 			(layer "F.Fab")
 			(uuid "4c980cda-e5f6-4b69-800b-b782db4a315a")
@@ -666,7 +666,7 @@
 				)
 			)
 		)
-		(property "Notes" ""
+		(property "Notes" "1/3 W"
 			(at 0 0 -45)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1331,7 +1331,7 @@
 				)
 			)
 		)
-		(property "manf#" "TLV70033DCKR"
+		(property "manf#" "MIC5365-3.3YC5-TR"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1370,7 +1370,7 @@
 				)
 			)
 		)
-		(property "Notes" ""
+		(property "Notes" "Alternates: TLV70033DCKx, AP2125KS-3.3TRG1"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12387,7 +12387,7 @@
 				)
 			)
 		)
-		(property "Notes" ""
+		(property "Notes" "Alternates: Amphenol 12402012E212A, GCT USB4105-GF-A, HRO TYPE-C-31-M-12, G-Switch GT-USB-7010ASV, XKB U263-16XN-4XS1735"
 			(at 0 0 135)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12778,7 +12778,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C6837593;C5274553"
+		(property "LCSC" "C706997;C5274553"
 			(at 0 0 -135)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15083,7 +15083,7 @@
 				)
 			)
 		)
-		(property "Value" "0R11 1/3W"
+		(property "Value" "0R11"
 			(at 0 1.65 -45)
 			(layer "F.Fab")
 			(uuid "76622ab0-ea83-4597-992c-ff92a4ff061a")
@@ -15181,7 +15181,7 @@
 				)
 			)
 		)
-		(property "Notes" ""
+		(property "Notes" "1/3 W"
 			(at 0 0 -45)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15381,7 +15381,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.smc-diodes.com/propdf/DSS12U%20THRU%20DSS125U%20N1873%20REV.A.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16313,7 +16313,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.smc-diodes.com/propdf/DSS12U%20THRU%20DSS125U%20N1873%20REV.A.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17713,7 +17713,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C7394037"
+		(property "LCSC" "C7394022"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -20351,7 +20351,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "2K2 0.1%"
+		(property "Value" "2K2/0.1%"
 			(at 0 -1.17 90)
 			(layer "B.Fab")
 			(uuid "066a1e0f-029a-4fc6-bcb1-985a085978e4")
@@ -20745,7 +20745,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Notes" ""
+		(property "Notes" "Use STM32G0B1KxU7 for 105C temperature rating"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23486,7 +23486,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.smc-diodes.com/propdf/DSS12U%20THRU%20DSS125U%20N1873%20REV.A.pdf"
 			(at 0 0 135)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27035,7 +27035,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "2K2 0.1%"
+		(property "Value" "2K2/0.1%"
 			(at 0 -1.17 90)
 			(layer "B.Fab")
 			(uuid "36d5ca96-6e4a-4d73-b0ee-4b8b8958b275")
@@ -31162,7 +31162,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/sk34sma-3g.pdf"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")

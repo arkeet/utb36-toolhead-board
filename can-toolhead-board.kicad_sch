@@ -7823,28 +7823,6 @@
 		)
 		(uuid "7f4e8be4-0add-4b7e-8a42-39cfb83a70e0")
 	)
-	(text "Matching USB connectors:\nAmphenol 12402012E212A\nGCT USB4105-GF-A\nHRO TYPE-C-31-M-12\nG-Switch GT-USB-7010ASV\nXKB U263-16XN-4XS1735\nand more..."
-		(exclude_from_sim no)
-		(at 22.86 193.04 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left top)
-		)
-		(uuid "940807c3-a932-4358-8f90-c8177377ecd4")
-	)
-	(text "Alternates:\nAP2125KS-3.3TRG1\nTLV70033DCK*"
-		(exclude_from_sim no)
-		(at 215.9 60.96 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9b66dd80-40a5-4666-8700-1ef320948cf2")
-	)
 	(text "SPI port"
 		(exclude_from_sim no)
 		(at 101.6 160.02 0)
@@ -7877,17 +7855,6 @@
 			(justify left bottom)
 		)
 		(uuid "c66299e8-2e29-4ce7-896e-59c2784f384f")
-	)
-	(text "Inductor choices\nSumida 0530CDMCCDS-3R3MC\nVishay IHLP2020CZER3R3M11"
-		(exclude_from_sim no)
-		(at 104.14 68.58 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f27ce528-56f9-4171-baf0-440bdc19b157")
 	)
 	(label "MISO"
 		(at 106.68 176.53 0)
@@ -8815,7 +8782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.smc-diodes.com/propdf/DSS12U%20THRU%20DSS125U%20N1873%20REV.A.pdf"
 			(at 180.34 66.04 90)
 			(effects
 				(font
@@ -11239,7 +11206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://diotec.com/request/datasheet/sk34sma-3g.pdf"
 			(at 114.3 30.48 90)
 			(effects
 				(font
@@ -11471,7 +11438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" ""
+		(property "Notes" "Alternates: Amphenol 12402012E212A, GCT USB4105-GF-A, HRO TYPE-C-31-M-12, G-Switch GT-USB-7010ASV, XKB U263-16XN-4XS1735"
 			(at 43.18 147.32 0)
 			(effects
 				(font
@@ -11669,7 +11636,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C6837593;C5274553"
+		(property "LCSC" "C706997;C5274553"
 			(at 190.5 66.04 0)
 			(effects
 				(font
@@ -13027,7 +12994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" ""
+		(property "Notes" "Alternates: Sumida 0530CDMCCDS-3R3MC"
 			(at 172.72 30.48 0)
 			(effects
 				(font
@@ -14860,7 +14827,7 @@
 				(hide yes)
 			)
 		)
-		(property "manf#" "TLV70033DCKR"
+		(property "manf#" "MIC5365-3.3YC5-TR"
 			(at 236.22 35.56 0)
 			(effects
 				(font
@@ -14896,7 +14863,7 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" ""
+		(property "Notes" "Alternates: TLV70033DCKx, AP2125KS-3.3TRG1"
 			(at 236.22 35.56 0)
 			(effects
 				(font

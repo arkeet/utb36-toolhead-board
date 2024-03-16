@@ -3661,7 +3661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.smc-diodes.com/propdf/DSS12U%20THRU%20DSS125U%20N1873%20REV.A.pdf"
 			(at 48.26 93.98 90)
 			(effects
 				(font
@@ -4497,7 +4497,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2K2 0.1%"
+		(property "Value" "2K2/0.1%"
 			(at 102.6414 143.264 0)
 			(effects
 				(font
@@ -4678,7 +4678,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2K2 0.1%"
+		(property "Value" "2K2/0.1%"
 			(at 56.9214 143.264 0)
 			(effects
 				(font
